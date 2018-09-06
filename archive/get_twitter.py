@@ -11,10 +11,10 @@ import re
 def main():
 
     # Различные логины для вытягивания данных
-    consumer_key= 'MOe623rxcqck6x8y5XhzK8MJT'
-    consumer_secret= 'mcBq9Km1f3OYERRD6vKmOfWSgCjsqzXAreIsn8klxAtPIo40E7'
-    access_token='913787859630460928-RXF8NVN3gGbxD64NCZ7wBma5M2WPwlv'
-    access_token_secret='P4UU9I2DimdnUown2EM6p4WZ0ftdPNsysDNW6xGh0Ts4f'
+    ckey="asdfsafsafsaf"
+csecret="asdfasdfsadfsa"
+atoken="asdfsadfsafsaf-asdfsaf"
+asecret="asdfsadfsadfsadfsadfsad"
 
     # Путь csv-файла, если нет - создается
     path = 'live_tweet.csv'
